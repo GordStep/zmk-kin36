@@ -1,5 +1,5 @@
 # ZMK прошивка для Kin36, Sweep36, Sweep Squared
-[Английская версия](README.md)
+[English version](README.md)
 
 ZMK прошивка для клавиатур Kin36, Sweep36 (щит ZMK Cradio, но с 36 клавишами), Sweep Squared, Swoop36 и других клавиатур формата 3x5 с полной бездиодной матрицей и стандартным BLE-микроконтроллером, совместимым с ProMicro (nice!nano, ProMicro NRF52840, TENSTAR ROBOT NRF52840 и другие).
 
