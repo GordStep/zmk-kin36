@@ -24,7 +24,7 @@ ZMK Firmware for Kin36, Sweep36 (ZMK Cradio shield but with 36 keys), Sweep Squa
 - The default layer and windows layer are where you type characters.
 - Both layers have modifier keys `CTRL`, `OPTION (ALT)`, `COMMAND (WINDOWS)` sharing the same positions as the character keys on your ring finger, middle finger and index finger on both hands. Hold the key to trigger the modifier, or tap the key to type the character.
 
-![default layer](images/default-layer.png)
+![default layer](images/default_layer.jpg)
 
 ![windows layer](images/windows-layer.png)
 
@@ -35,7 +35,7 @@ ZMK Firmware for Kin36, Sweep36 (ZMK Cradio shield but with 36 keys), Sweep Squa
 - Special keys:
   - `&bootloader` – make the right half enter bootloader, so you can copy new firmware to it.
 
-![right layer](images/right-layer.png)
+![right layer](images/right_layer.jpg)
 
 ## Punctuations
 
@@ -46,7 +46,7 @@ ZMK Firmware for Kin36, Sweep36 (ZMK Cradio shield but with 36 keys), Sweep Squa
   - `&bootloader` – make the left half enter bootloader, so you can copy new firmware to it
   - `5` – switch to mouse layer
 
-![left layer](images/left-layer.png)
+![left layer](images/left_layer.jpg)
 
 ## Functions
 
@@ -59,7 +59,7 @@ ZMK Firmware for Kin36, Sweep36 (ZMK Cradio shield but with 36 keys), Sweep Squa
   - `&soft_off` – enter soft off (like deep sleep after an hour of inactivity, but can only be woken by wake-up keys, set to left thumb: `shift`)
 - Release the tab keys to return to the default or windows layer.
 
-![tri layer](images/tri-layer.png)
+![tri layer](images/tri_layer.jpg)
 
 ## Mouse
 
@@ -67,5 +67,5 @@ ZMK Firmware for Kin36, Sweep36 (ZMK Cradio shield but with 36 keys), Sweep Squa
 - Press `p` or `q` to quit the mouse layer
 - `MB4` is for going backward, `MB5` is for going forward
 
-![mouse layer](images/mouse-layer.png)
+![mouse layer](images/mouse_layer.jpg)
 
