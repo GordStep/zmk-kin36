@@ -8,7 +8,7 @@ ZMK Firmware for Kin36, Sweep36 (ZMK Cradio shield but with 36 keys), Sweep Squa
 ### Flash new firmware
 
 1. Fork this repo
-2. (optional) Update keymap and config file
+2. (optional) Update keymap and config file or use this [site](https://nickcoutsos.github.io/keymap-editor/)   
 3. Wait for GitHub Actions to build the firmware, then download and decompress the zip file
 4. Connect the left or right half to your computer with a USB cable
 5. Make the left or right half enter bootloader. You can enter bootloader by:
